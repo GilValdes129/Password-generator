@@ -5,4 +5,4 @@ This criteria are the:
     use of upper case,
     use of numbers,
     or specials characters,
-[label](videos/2022-12-10%2016-45-52.mp4)
+![Alt text](videos/2022-12-10-16-45-52.gif)
