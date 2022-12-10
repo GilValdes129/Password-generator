@@ -5,4 +5,4 @@ This criteria are the:
     use of upper case,
     use of numbers,
     or specials characters,
-[label](../../../../../../../../../C:/Users/GilVa/OneDrive/Desktop/Desarrollo%20Web/Proyecto%20final/bootcamp/Module%203/videos/2022-12-10%2016-45-52.mp4)
+[label](videos/2022-12-10%2016-45-52.mp4)
