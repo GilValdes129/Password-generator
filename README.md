@@ -8,3 +8,7 @@ This criteria are the:
 In this GIF you can see how the application works
 ![Alt text](videos/2022-12-10-16-45-52.gif)
 Link to the GitHub page: https://gilvaldes129.github.io/password-generator/
+
+Reference
+I use the code in this video to create the password once the criteria has been selected
+Link: https://youtu.be/ssYo9t37pE4
